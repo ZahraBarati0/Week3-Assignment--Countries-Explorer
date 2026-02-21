@@ -76,6 +76,31 @@ npm run dev
 
 ## 📸 Screenshots
 
+### Home Page
+<img src="Home.PNG" width="600" height="350" alt="Countries Explorer Home" />
 
+### Search Results
+<img src="SearchResult.PNG" width="600" height="350" alt="Search Results" />
+
+### Region Filter
+<img src="RegionFilter.PNG" width="600" height="350" alt="Region Filter" />
+
+### Sort by Population
+<img src="Sort.PNG" width="600" height="350" alt="Sort by Population" />
+
+### Dark Mode View
+<img src="DarkMode.PNG" width="600" height="350" alt="Dark Mode View" />
+
+---
+
+## ✅ Notes
+
+All API fetches are handled with proper loading and error states.
+
+The app is fully responsive and works on desktop and mobile.
+
+Designed with a modern aesthetic, using neutral gradients and card shadows to make flags and information stand out.
+
+Sorting, filtering, and search features are fully functional.
 
 ---
